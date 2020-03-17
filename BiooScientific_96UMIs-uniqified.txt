@@ -1,0 +1,99 @@
+### Uniqified barcodes obtained from 
+### demultiplex/check-barcodes.pl  -m 1 -o thisfile BiooScientific_UMIs_96_Jun_2018.txt
+### (to use with the demultiplex library; lower-case positions are not allowed to mismatch)
+A1	AACGCCAT
+A10	acGaCtTg	 # 5 fixed positions
+A11	acGtCAac	 # 5 fixed positions
+A12	acGtCatg	 # 6 fixed positions
+A13	ACtgTcAg	 # 4 fixed positions
+A14	ACTGTgAc	 # 2 fixed positions
+A15	aGAcACTC	 # 2 fixed positions
+A16	AgagGAgA	 # 4 fixed positions
+A17	AGCATcGt	 # 2 fixed positions
+A18	aGCaTgGa	 # 4 fixed positions
+A19	AGCTACCA
+A2	aAGGTaCG	 # 2 fixed positions
+A20	AgCTcTAG	 # 2 fixed positions
+A21	AgGaCAac	 # 4 fixed positions
+A22	AgGaCatg	 # 5 fixed positions
+A23	AGGTTGCT
+A24	AGtcGAGA	 # 2 fixed positions
+A25	AGTGCTGT
+A26	ATAAGCGG
+A27	ATCcaTGG	 # 2 fixed positions
+A28	atCGAACC	 # 2 fixed positions
+A29	aTCGCgTA	 # 2 fixed positions
+A3	AATTCCGG
+A30	aTCgtTgG	 # 4 fixed positions
+A31	CaaCGaTc	 # 4 fixed positions
+A32	CaaCGtTg	 # 4 fixed positions
+A33	caActgGT	 # 5 fixed positions
+A34	caagTcGT	 # 5 fixed positions
+A35	CACACACA
+A36	caGTACTG	 # 2 fixed positions
+A37	CATCAGCA
+A38	CatCGtTc	 # 4 fixed positions
+A39	CCaAGgTT	 # 2 fixed positions
+A4	ACACagaG	 # 3 fixed positions
+A40	CCtAGcTT	 # 2 fixed positions
+A41	cGATtACG	 # 2 fixed positions
+A42	cGCcTAtT	 # 3 fixed positions
+A43	CGTTccAT	 # 2 fixed positions
+A44	CGTTggAT	 # 2 fixed positions
+A45	CtacGttc	 # 6 fixed positions
+A46	CtAcTcGT	 # 3 fixed positions
+A47	CTAGAGGA
+A48	CTAGGaAg	 # 2 fixed positions
+A49	CTAgGtac	 # 4 fixed positions
+A5	ACactcaG	 # 5 fixed positions
+A50	CTcAGTcT	 # 2 fixed positions
+A51	CTGAcTGa	 # 2 fixed positions
+A52	CTgAgTgt	 # 4 fixed positions
+A53	cTGATGtg	 # 3 fixed positions
+A54	CTGTTCAC
+A55	CttCGTTg	 # 3 fixed positions
+A56	gAACaGGT	 # 2 fixed positions
+A57	GAAGacCA	 # 2 fixed positions
+A58	GAAGtgCA	 # 2 fixed positions
+A59	GacAtGAG	 # 3 fixed positions
+A6	ACACtgtG	 # 3 fixed positions
+A60	GagAaGag	 # 5 fixed positions
+A61	GaGaaGtc	 # 5 fixed positions
+A62	GATCCTAG
+A63	gatGTCGt	 # 4 fixed positions
+A64	GCCGATat	 # 2 fixed positions
+A65	GCCGATta	 # 2 fixed positions
+A66	GcgGTATT	 # 2 fixed positions
+A67	GGAATTGG
+A68	gGATaACG	 # 2 fixed positions
+A69	gGCcTAaT	 # 3 fixed positions
+A7	acAGGAca	 # 4 fixed positions
+A70	ggcgTAtT	 # 5 fixed positions
+A71	GTcttGTC	 # 3 fixed positions
+A72	gtgAtGag	 # 6 fixed positions
+A73	gtgatGtc	 # 7 fixed positions
+A74	gtGTAcTg	 # 4 fixed positions
+A75	GtgtagTc	 # 6 fixed positions
+A76	GTTCacCT	 # 2 fixed positions
+A77	GTTCtgCT	 # 2 fixed positions
+A78	GtTGTCGa	 # 2 fixed positions
+A79	taCGAACC	 # 2 fixed positions
+A8	AcCTgTAG	 # 2 fixed positions
+A80	TAGCaAGg	 # 2 fixed positions
+A81	TAGCtAGc	 # 2 fixed positions
+A82	tagGTtCG	 # 4 fixed positions
+A83	TATAGCGC
+A84	tCAGGACt	 # 2 fixed positions
+A85	TCcaCaTC	 # 3 fixed positions
+A86	tCgaCtTc	 # 5 fixed positions
+A87	tCGtAGGT	 # 2 fixed positions
+A88	tCgtCatc	 # 6 fixed positions
+A89	tGAgAcTc	 # 4 fixed positions
+A9	aCGaAGGT	 # 2 fixed positions
+A90	TGaGagtg	 # 5 fixed positions
+A91	TGaGtGaG	 # 3 fixed positions
+A92	tGCtTGGA	 # 2 fixed positions
+A93	TGGAGTAG
+A94	TGtGtGtG	 # 3 fixed positions
+A95	tTCGCcTA	 # 2 fixed positions
+A96	ttcGTTcG	 # 4 fixed positions
