@@ -10,7 +10,7 @@
 ## reads are properly sorted in strict ASCII order. samtools view -n does *not* do this; 
 ## use sambamba view or picard tools, or even Unix sort (make sure you set LC_ALL=C for that)
 ##
-## For now locations are hard-coded: bam files are expected in $bamdir, fastq files in $fastqdir
+## bam files are expected in $bamdir, fastq files in $fastqdir
 ## and things are written to $outdir, all defined below
 ##
 ## When submitting to the queue, be sure to request tmpspace (say
