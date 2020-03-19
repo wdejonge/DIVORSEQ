@@ -17,6 +17,8 @@
 ## twice the size of sam file, 10x that of the bam file). It is needed for the
 ## intermediates files and for sorting. The script did ~ 800k reads per
 ## minute.
+##
+## Written by plijnzaad@gmail.com
 
 set -x
 set -u
