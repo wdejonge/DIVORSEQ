@@ -19,7 +19,7 @@ use FileHandle;
 use Number::Format;
 use Getopt::Std;
 
-use lib "$ENV{HOME}/git/demultiplex";
+use lib "$ENV{HOME}/git/demultiplex"; # find it at https://bitbucket.org/princessmaximacenter/demultiplex/
 
 use mismatch;
 
